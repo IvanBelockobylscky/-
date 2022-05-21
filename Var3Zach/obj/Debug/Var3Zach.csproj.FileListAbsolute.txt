@@ -1,0 +1,11 @@
+C:\Users\Wither.DESKTOP-E3BIJCM\source\repos\Var3Zach\Var3Zach\obj\Debug\Var3Zach.csproj.AssemblyReference.cache
+C:\Users\Wither.DESKTOP-E3BIJCM\source\repos\Var3Zach\Var3Zach\obj\Debug\Var3Zach.Form1.resources
+C:\Users\Wither.DESKTOP-E3BIJCM\source\repos\Var3Zach\Var3Zach\obj\Debug\Var3Zach.Properties.Resources.resources
+C:\Users\Wither.DESKTOP-E3BIJCM\source\repos\Var3Zach\Var3Zach\obj\Debug\Var3Zach.csproj.GenerateResource.cache
+C:\Users\Wither.DESKTOP-E3BIJCM\source\repos\Var3Zach\Var3Zach\obj\Debug\Var3Zach.csproj.CoreCompileInputs.cache
+C:\Users\Wither.DESKTOP-E3BIJCM\source\repos\Var3Zach\Var3Zach\bin\Debug\Var3Zach.exe.config
+C:\Users\Wither.DESKTOP-E3BIJCM\source\repos\Var3Zach\Var3Zach\bin\Debug\Var3Zach.exe
+C:\Users\Wither.DESKTOP-E3BIJCM\source\repos\Var3Zach\Var3Zach\bin\Debug\Var3Zach.pdb
+C:\Users\Wither.DESKTOP-E3BIJCM\source\repos\Var3Zach\Var3Zach\obj\Debug\Var3Zach.exe
+C:\Users\Wither.DESKTOP-E3BIJCM\source\repos\Var3Zach\Var3Zach\obj\Debug\Var3Zach.pdb
+C:\Users\Wither.DESKTOP-E3BIJCM\source\repos\Var3Zach\Var3Zach\obj\Debug\Var3Zach.Form2.resources
